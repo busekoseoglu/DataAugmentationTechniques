@@ -1,4 +1,4 @@
-# DataAugmentationTechniques
+# Data Augmentation Techniques
 Data Augmentation Techniques with Keras, Opencv and Imgaug
 
 In this short tutorial, I briefly explained data augmentation techniques. 
